@@ -7,6 +7,7 @@ int main()
     cout<<"dog"<<endl;
     cout<<"persian"<<endl;
     cout<<"turkish"<<endl;
-    cout<<"mix breed"
+    cout<<"mix breed"<<endl
+    cout<<"rabbit"<<endl
     return 0;
 }
